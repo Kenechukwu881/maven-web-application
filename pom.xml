@@ -109,7 +109,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>paypal-app</finalName>
+		<finalName>visa-debit-app</finalName>
 		
 		<plugins>
 			<plugin>
