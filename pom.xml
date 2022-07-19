@@ -109,7 +109,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>visa-debit-app</finalName>
+		<finalName>maven-web-app</finalName>
 		
 		<plugins>
 			<plugin>
